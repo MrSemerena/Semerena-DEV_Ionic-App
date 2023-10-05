@@ -1,0 +1,7 @@
+{
+  "name": "Semerena-DEV_Ionic-App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
